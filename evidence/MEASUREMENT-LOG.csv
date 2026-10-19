@@ -1,0 +1,1 @@
+date,experiment_id,commit_sha,task,agent_and_plan,model_setting,context_sources,elapsed_minutes,developer_active_minutes,tokens_input,tokens_output,tool_calls,file_reads,retries,tests_passed,tests_failed,defects_found,additional_cost,currency,evidence_links,notes
