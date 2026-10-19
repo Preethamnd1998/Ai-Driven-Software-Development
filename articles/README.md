@@ -10,3 +10,11 @@ Each article should contain:
 5. Failures and limitations.
 6. Reusable takeaways.
 7. Links to GitHub artifacts and relevant commits.
+
+## Index
+
+| # | Article | Status |
+|---|---------|--------|
+| 001 | [AI-Driven Software Development: A Practical Engineering Experiment](001-ai-integrated-sdlc/article.md) | Draft — pending review |
+
+Each article lives in `articles/NNN-slug/` with `article.md`, `README.md` (status and review checklist) and `references.md`.
