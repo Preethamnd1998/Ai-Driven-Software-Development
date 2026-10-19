@@ -4,7 +4,7 @@ The series documents one end-to-end experiment, not 24 unrelated opinion pieces.
 
 ## Part I — Establish the evidence
 
-1. **AI-Driven Software Development: A Practical Engineering Experiment** — scope, constraints, baseline, evidence rules. _Status: draft, pending review — [`articles/001-ai-integrated-sdlc/`](articles/001-ai-integrated-sdlc/article.md)._
+1. **AI-Driven Software Development: A Practical Engineering Experiment** — scope, constraints, baseline, evidence rules. Pilot 001 results included (two-arm comparison, Arm A 68 min vs. Arm B 75 min, both 18/18 acceptance criteria passed, zero defects). _Status: draft with verified pilot results — [`articles/001-ai-integrated-sdlc/`](articles/001-ai-integrated-sdlc/article.md); audit report: [`experiments/pilot-001/ARM-A-B-AUDIT-REPORT-FINAL.md`](experiments/pilot-001/ARM-A-B-AUDIT-REPORT-FINAL.md)._
 2. **From Idea to Requirements with AI** — problem statement, MRD/BRD where useful, stories, acceptance criteria, traceability.
 3. **From Requirements to Architecture and Implementation Plans** — system design, API contracts, data model, task decomposition.
 
